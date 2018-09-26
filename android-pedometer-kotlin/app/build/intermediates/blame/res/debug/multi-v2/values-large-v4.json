@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Usuario\\AndroidStudioProjects\\android-pedometer-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\android-pedometer-master1\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "from": {
+                        "startLines": "18,10,11,7,8,16,1,13,14,17,15,4,5,19,20,6,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "599,315,353,219,263,516,16,397,435,556,473,97,140,641,689,182,60",
+                        "endColumns": "41,37,42,43,50,39,42,37,37,42,42,42,41,47,54,36,36",
+                        "endOffsets": "636,348,391,258,309,551,54,430,468,594,511,135,177,684,739,214,92"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,135,178,222,273,313,356,394,432,475,518,561,603,651,706,743",
+                        "endColumns": "41,37,42,43,50,39,42,37,37,42,42,42,41,47,54,36,36",
+                        "endOffsets": "92,130,173,217,268,308,351,389,427,470,513,556,598,646,701,738,775"
+                    }
+                }
+            ]
+        }
+    ]
+}
